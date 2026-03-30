@@ -5,6 +5,7 @@ $email = "rania.mezzi@edu.isetcom.tn";
 $age = 20;
 $ville = "Bizerte";
 $formation = "développement web";
+
 ?>
 <!DOCTYPE html>
 <html lang="fr">
